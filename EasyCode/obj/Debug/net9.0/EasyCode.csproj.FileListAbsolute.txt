@@ -1,0 +1,14 @@
+C:\Users\User\EasyCode\bin\Debug\net9.0\EasyCode.exe
+C:\Users\User\EasyCode\bin\Debug\net9.0\EasyCode.deps.json
+C:\Users\User\EasyCode\bin\Debug\net9.0\EasyCode.runtimeconfig.json
+C:\Users\User\EasyCode\bin\Debug\net9.0\EasyCode.dll
+C:\Users\User\EasyCode\bin\Debug\net9.0\EasyCode.pdb
+C:\Users\User\EasyCode\obj\Debug\net9.0\EasyCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\EasyCode\obj\Debug\net9.0\EasyCode.AssemblyInfoInputs.cache
+C:\Users\User\EasyCode\obj\Debug\net9.0\EasyCode.AssemblyInfo.cs
+C:\Users\User\EasyCode\obj\Debug\net9.0\EasyCode.csproj.CoreCompileInputs.cache
+C:\Users\User\EasyCode\obj\Debug\net9.0\EasyCode.dll
+C:\Users\User\EasyCode\obj\Debug\net9.0\refint\EasyCode.dll
+C:\Users\User\EasyCode\obj\Debug\net9.0\EasyCode.pdb
+C:\Users\User\EasyCode\obj\Debug\net9.0\EasyCode.genruntimeconfig.cache
+C:\Users\User\EasyCode\obj\Debug\net9.0\ref\EasyCode.dll
